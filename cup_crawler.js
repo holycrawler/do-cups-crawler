@@ -1,6 +1,7 @@
-import { JSDOM } from "jsdom";
-import fetch from "node-fetch";
-import fs from "fs";
+const { JSDOM } = require("jsdom");
+const fetch = require("node-fetch");
+const fs = require("fs");
+
 //import { createInterface } from "readline";
 //import json2csv from 'json2csv';
 
