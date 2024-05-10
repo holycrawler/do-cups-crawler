@@ -4,7 +4,7 @@
   "description": "",
   "main": "cup_crawler.js",
   "scripts": {
-    "test": "node \u0016cup_crawler.js"
+    "start": "node \u0016cup_crawler.js"
   },
   "repository": {
     "type": "git",
