@@ -1,0 +1,24 @@
+{
+  "name": "do-cups-craawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cup_crawler.js",
+  "scripts": {
+    "test": "node \u0016cup_crawler.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holycrawler/do-cups-crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holycrawler/do-cups-crawler/issues"
+  },
+  "homepage": "https://github.com/holycrawler/do-cups-crawler#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jsdom": "^24.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
